@@ -16,8 +16,8 @@ Personalized Learning Assistant – A Streamlit-based AI assistant that provides
 ## Set Up Environment Variables
 Create a .env file in the project root and add:
 ```
-MONGO_URI=your_mongodb_connection_string
-GROQ_API_KEY=your_groq_api_key
+MONGO_URI="your_mongodb_connection_string"
+GROQ_API_KEY="your_groq_api_key"
 ```
 
 ## Run the App
@@ -27,4 +27,4 @@ streamlit run app.py
 ```
 
 📬 Contact
-If you have any questions or any suggestions, feel free to reach out! You can find me on [LinkedIn] (https://www.linkedin.com/in/paramita-debbarma-810a8230a/).
+If you have any questions or any suggestions, feel free to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/paramita-debbarma-810a8230a/).
